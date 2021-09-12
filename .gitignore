@@ -1,0 +1,6 @@
+node_modules
+dist
+.log
+
+strapi-server.js
+strapi-server.d.ts
